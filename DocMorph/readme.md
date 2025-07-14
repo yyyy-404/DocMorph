@@ -1,6 +1,3 @@
-太好了，以下是你项目 `README.md` 中的完整版本（中英文对照），**已经包括你提到的功能、GUI、依赖项和打包发布时需要说明的 Pandoc 使用方式**：
-
-------
 
 ## 📄 Document Converter 文档格式转换工具
 
@@ -146,14 +143,7 @@ datas = [('./bin/pandoc.exe', 'bin')]
 
 ------
 
-## 🧪 示例效果
 
-<截图（转换界面）>
- <截图（进度条）>
- <截图（失败文件名提示）>
+📮 反馈与贡献
 
-------
-
-## 📮 反馈与贡献
-
-欢迎在 [Issues](https://github.com/yourname/document-converter/issues) 提交反馈与建议，欢迎 star 🌟、fork 🍴 或参与改进。
+欢迎在提交反馈与建议，欢迎 star 🌟、fork 🍴 或参与改进。
